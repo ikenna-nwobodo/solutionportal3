@@ -8,6 +8,339 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 480379817,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.Index",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 166417323,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.Index",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 718183249,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.QuestionsTable",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "QuestionsTable"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.QuestionsTable"
+        }
+      },
+      {
+        "HashCode": -75608012,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.QuestionsTable",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Pages.QuestionsTable"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.QuestionsTable",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1746184881,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.PakagesLiist",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PakagesLiist"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.PakagesLiist"
+        }
+      },
+      {
+        "HashCode": 1557702444,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.PakagesLiist",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Pages.PakagesLiist"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.PakagesLiist",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1466776967,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.CreateNewCustomer",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CreateNewCustomer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.CreateNewCustomer"
+        }
+      },
+      {
+        "HashCode": -135111757,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.CreateNewCustomer",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Pages.CreateNewCustomer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.CreateNewCustomer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -997446698,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.BackTo",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BackTo"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Page",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Page"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Route",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Route"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.BackTo"
+        }
+      },
+      {
+        "HashCode": 1932324154,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.BackTo",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Pages.BackTo"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Page",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Page"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Route",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Route"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.BackTo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -281516030,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.MakeSalesOrder",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MakeSalesOrder"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.MakeSalesOrder"
+        }
+      },
+      {
+        "HashCode": -929026682,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.MakeSalesOrder",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Pages.MakeSalesOrder"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.MakeSalesOrder",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2123295361,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.Login",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.Login"
+        }
+      },
+      {
+        "HashCode": -567883348,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.Login",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Pages.Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.Login",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1076884420,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.Formm",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Formm"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.Formm"
+        }
+      },
+      {
+        "HashCode": -1887073368,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.Formm",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Pages.Formm"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.Formm",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1342440849,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.FetchData",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 64402147,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Pages.FetchData",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 315294574,
         "Kind": "Components.Component",
         "Name": "SolutionPortal.Pages.Authentication",
@@ -94,105 +427,6 @@
         }
       },
       {
-        "HashCode": -1342440849,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.FetchData",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 64402147,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.FetchData",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SolutionPortal.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1076884420,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.Formm",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Formm"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.Formm"
-        }
-      },
-      {
-        "HashCode": -1887073368,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.Formm",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SolutionPortal.Pages.Formm"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.Formm",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2123295361,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.Login",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.Login"
-        }
-      },
-      {
-        "HashCode": -567883348,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.Login",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SolutionPortal.Pages.Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.Login",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1539924757,
         "Kind": "Components.Component",
         "Name": "SolutionPortal.Pages.Signup",
@@ -226,167 +460,68 @@
         }
       },
       {
-        "HashCode": 480379817,
+        "HashCode": -170128850,
         "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.Index",
+        "Name": "SolutionPortal.App",
         "AssemblyName": "SolutionPortal",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.Index"
+          "Common.TypeName": "SolutionPortal.App"
         }
       },
       {
-        "HashCode": 166417323,
+        "HashCode": -1589480916,
         "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.Index",
+        "Name": "SolutionPortal.App",
         "AssemblyName": "SolutionPortal",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SolutionPortal.Pages.Index"
+            "TagName": "SolutionPortal.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.Index",
+          "Common.TypeName": "SolutionPortal.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1746184881,
+        "HashCode": 1079054278,
         "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.PakagesLiist",
+        "Name": "SolutionPortal.Shared.NavMenu",
         "AssemblyName": "SolutionPortal",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "PakagesLiist"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.PakagesLiist"
+          "Common.TypeName": "SolutionPortal.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 1557702444,
+        "HashCode": 1502752212,
         "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.PakagesLiist",
+        "Name": "SolutionPortal.Shared.NavMenu",
         "AssemblyName": "SolutionPortal",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SolutionPortal.Pages.PakagesLiist"
+            "TagName": "SolutionPortal.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.PakagesLiist",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1466776967,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.CreateNewCustomer",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CreateNewCustomer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.CreateNewCustomer"
-        }
-      },
-      {
-        "HashCode": -135111757,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Pages.CreateNewCustomer",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SolutionPortal.Pages.CreateNewCustomer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Pages.CreateNewCustomer",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1194600237,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Shared.LoginDisplay",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LoginDisplay"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Shared.LoginDisplay"
-        }
-      },
-      {
-        "HashCode": 2061852723,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Shared.LoginDisplay",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SolutionPortal.Shared.LoginDisplay"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Shared.LoginDisplay",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 234558845,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Shared.RedirectToLogin",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "RedirectToLogin"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Shared.RedirectToLogin"
-        }
-      },
-      {
-        "HashCode": -960707393,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.Shared.RedirectToLogin",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SolutionPortal.Shared.RedirectToLogin"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Shared.RedirectToLogin",
+          "Common.TypeName": "SolutionPortal.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -440,6 +575,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "SolutionPortal.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1194600237,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Shared.LoginDisplay",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LoginDisplay"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Shared.LoginDisplay"
+        }
+      },
+      {
+        "HashCode": 2061852723,
+        "Kind": "Components.Component",
+        "Name": "SolutionPortal.Shared.LoginDisplay",
+        "AssemblyName": "SolutionPortal",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SolutionPortal.Shared.LoginDisplay"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SolutionPortal.Shared.LoginDisplay",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -540,101 +708,35 @@
         }
       },
       {
-        "HashCode": 1079054278,
+        "HashCode": 234558845,
         "Kind": "Components.Component",
-        "Name": "SolutionPortal.Shared.NavMenu",
+        "Name": "SolutionPortal.Shared.RedirectToLogin",
         "AssemblyName": "SolutionPortal",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "RedirectToLogin"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Shared.NavMenu"
+          "Common.TypeName": "SolutionPortal.Shared.RedirectToLogin"
         }
       },
       {
-        "HashCode": 1502752212,
+        "HashCode": -960707393,
         "Kind": "Components.Component",
-        "Name": "SolutionPortal.Shared.NavMenu",
+        "Name": "SolutionPortal.Shared.RedirectToLogin",
         "AssemblyName": "SolutionPortal",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SolutionPortal.Shared.NavMenu"
+            "TagName": "SolutionPortal.Shared.RedirectToLogin"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -170128850,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.App",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.App"
-        }
-      },
-      {
-        "HashCode": -1589480916,
-        "Kind": "Components.Component",
-        "Name": "SolutionPortal.App",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SolutionPortal.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SolutionPortal.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2014704782,
-        "Kind": "Components.Component",
-        "Name": "__GeneratedComponent.AspNetCore_0e7c4fabec559ddeb23465ffc40495fb97468558",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AspNetCore_0e7c4fabec559ddeb23465ffc40495fb97468558"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "__GeneratedComponent.AspNetCore_0e7c4fabec559ddeb23465ffc40495fb97468558"
-        }
-      },
-      {
-        "HashCode": 2133313487,
-        "Kind": "Components.Component",
-        "Name": "__GeneratedComponent.AspNetCore_0e7c4fabec559ddeb23465ffc40495fb97468558",
-        "AssemblyName": "SolutionPortal",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "__GeneratedComponent.AspNetCore_0e7c4fabec559ddeb23465ffc40495fb97468558"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "__GeneratedComponent.AspNetCore_0e7c4fabec559ddeb23465ffc40495fb97468558",
+          "Common.TypeName": "SolutionPortal.Shared.RedirectToLogin",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -26895,13 +26997,28 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Users\\user\\Documents\\WEBPortal\\solutionportal3\\SolutionPortal\\Pages\\MakeSalesOrder.razor",
+      "TargetPath": "Pages\\MakeSalesOrder.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\user\\Documents\\WEBPortal\\solutionportal3\\SolutionPortal\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Users\\user\\Documents\\WEBPortal\\solutionportal3\\SolutionPortal\\Pages\\QuestionsTable.razor",
+      "TargetPath": "Pages\\QuestionsTable.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\user\\Documents\\WEBPortal\\solutionportal3\\SolutionPortal\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\user\\Documents\\WEBPortal\\solutionportal3\\SolutionPortal\\Pages\\BackTo.razor",
+      "TargetPath": "Pages\\BackTo.razor",
       "FileKind": "component"
     },
     {
