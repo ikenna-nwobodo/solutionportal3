@@ -13,6 +13,146 @@
       "PackagePath": "staticwebassets\\SolutionPortal.styles.css"
     },
     {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\1.jpg",
+      "PackagePath": "staticwebassets\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\10.png",
+      "PackagePath": "staticwebassets\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\11.png",
+      "PackagePath": "staticwebassets\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\12.png",
+      "PackagePath": "staticwebassets\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\13.png",
+      "PackagePath": "staticwebassets\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\14.png",
+      "PackagePath": "staticwebassets\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\15.png",
+      "PackagePath": "staticwebassets\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\16.png",
+      "PackagePath": "staticwebassets\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\17.jpeg",
+      "PackagePath": "staticwebassets\\17.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\1F.png",
+      "PackagePath": "staticwebassets\\1F.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\2.jpg",
+      "PackagePath": "staticwebassets\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\2F.png",
+      "PackagePath": "staticwebassets\\2F.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\3.png",
+      "PackagePath": "staticwebassets\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\4.png",
+      "PackagePath": "staticwebassets\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\5.png",
+      "PackagePath": "staticwebassets\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\6.png",
+      "PackagePath": "staticwebassets\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\7.png",
+      "PackagePath": "staticwebassets\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\8.png",
+      "PackagePath": "staticwebassets\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\9.png",
+      "PackagePath": "staticwebassets\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\10.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\11.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\12.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\13.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\14.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\15.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\16.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\1F.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\1F.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\2F.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\2F.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\3.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\4.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\5.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\6.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\7.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\8.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\HOW TO MAKE SALES ORDER\\9.png",
+      "PackagePath": "staticwebassets\\HOW TO MAKE SALES ORDER\\9.png"
+    },
+    {
       "Id": "C:\\Users\\HP\\source\\repos\\SolutionPortal\\SolutionPortal\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },

@@ -1,5 +1,6 @@
 ﻿@page "/form"
 <h2 style="text-align:center; margin-bottom:20px;">Log Complaint</h2>
+
 <div class="container f">
 	<form class=" formm" action="https://formsubmit.co/nikenna06@gmail.com" method="post">
 		<input type="hidden" name="_template" value="table">
@@ -21,8 +22,10 @@
 			<textarea placeholder="Describe your fault" resizeable="false" name="Description"></textarea>
 		</div>
 		<button class="mt-4">Send</button>
+		<BackTo Page="Home" Route="/"></BackTo>
 	</form>
 </div>
+
 @code {
 
 }

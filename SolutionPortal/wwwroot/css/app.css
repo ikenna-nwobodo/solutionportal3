@@ -204,6 +204,7 @@ a, .btn-link {
     justify-content:center;
     align-items:center;
     text-align:center;
+    background-color:red;
 }
 .listDiv {
     display: flex;
@@ -240,67 +241,71 @@ a, .btn-link {
             transition: all ease-in-out 300ms;
         }
 
-        .bigBtn {
-            display: flex;
-            justify-content: space-evenly;
-            align-items: center;
-            margin-top: 50px;
-            padding: 20px;
-        }
-            .bigBtn .btn1 {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                text-align: center;
-                padding: 30px;
-                background-color: #0cbaba;
-                background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
-                border: none;
-                border-radius: 10px;
-                color: white;
-                width: 30%;
-                height: 200px;
-                font-size: 20px;
-                cursor: pointer;
-                transition: all ease-in-out 300ms;
-                box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
-            }
+.bigBtn {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+    .bigBtn .btn1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 30px;
+        background-color: #0cbaba;
+        background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
+        border: none;
+        border-radius: 10px;
+        color: white;
+        width: 30%;
+        height: 200px;
+        font-size: 20px;
+        cursor: pointer;
+        transition: all ease-in 400ms;
+        box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+    }
         .bigBtn .btn1:hover {
             font-weight: bolder;
-            transition: all ease-in-out 300ms;
+            transition: all ease-in 400ms;
             transform: scale(1.05);
+            background-color: #380036;
+            background-image: linear-gradient(315deg, #380036 0%, #0cbaba 74%);
         }
             .bigBtn .btn1:hover span{
                 font-weight: 700;
                 transform: translate(10px);
                 transition: all ease-in-out 300ms;
             }
-            .bigBtn .btn2 {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                border: none;
-                border-radius: 10px;
-                background-color: #380036;
-                background-image: linear-gradient(315deg, #380036 0%, #0cbaba 74%);
-                color: white;
-                padding: 30px;
-                width: 30%;
-                height: 200px;
-                font-size: 20px;
-                cursor: pointer;
-                box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
-            }
+    .bigBtn .btn2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: none;
+        border-radius: 10px;
+        background-color: #380036;
+        background-image: linear-gradient(315deg, #380036 0%, #0cbaba 74%);
+        color: white;
+        padding: 30px;
+        width: 30%;
+        height: 200px;
+        font-size: 20px;
+        cursor: pointer;
+        box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+    }
         .bigBtn .btn2:hover {
             font-weight: bolder;
             transition: all ease-in-out 300ms;
             transform: scale(1.05);
+            background-color: #0cbaba;
+            background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
         }
-    .bigBtn .btn2:hover span {
-        font-weight: 700;
-        transform: translate(10px);
-        transition: all ease-in-out 300ms;
-    }
+            .bigBtn .btn2:hover span {
+                font-weight: 700;
+                transform: translate(10px);
+                transition: all ease-in-out 300ms;
+            }
 .container.f{
     display:flex;
     justify-content:center;
@@ -391,3 +396,10 @@ a, .btn-link {
         padding: 30px;
         box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
     }
+        .contentcontainer .content ol li{
+            margin-bottom:10px;
+
+        }
+        .contentcontainer .content #txt {
+            margin-bottom: 20px;
+        }

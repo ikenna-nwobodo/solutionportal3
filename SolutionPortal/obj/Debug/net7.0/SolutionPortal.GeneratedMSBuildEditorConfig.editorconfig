@@ -24,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/BackTo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFja1RvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/MakeSalesOrder.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFrZVNhbGVzT3JkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/Signup.razor]
