@@ -1,0 +1,52 @@
+﻿@page "/"
+@inject NavigationManager _nav
+
+<PageTitle>Index</PageTitle>
+
+<div class="container"> 
+    <div class="mainfr">
+      <div class="main">
+        <input type="text" placeholder="Search" @bind-value="inputString" @bind-value:event="oninput"/>
+        <button><span class="material-symbols-outlined"> search </span></button>
+      </div>
+      <div class="listDiv">
+        @if (!string.IsNullOrEmpty(inputString) || !string.IsNullOrWhiteSpace(inputString))
+        {
+            @foreach (var link in documents)
+            {
+                @if (link.Contains(inputString))
+                {
+                    <h4 class="linkList"> <a href="@link">@link</a></h4>
+                }
+            } 
+        }
+    </div>
+    </div>
+</div>
+<div class="bigBtn">
+    <div class="btn1" @onclick="navToForm">
+        <h4>Log Complaint</h4>
+        @*<span class="material-symbols-outlined">arrow_forward</span>*@
+    </div>
+    <div class="btn2">
+        <h4>Contact Support</h4>
+        @*<span class="material-symbols-outlined">arrow_forward</span>*@
+    </div>
+</div>
+
+@code{
+    public string? inputString { get; set; }
+
+    private List<string> documents = new List<string>()
+    {
+        "How to create a new customer",
+        "How to generate payment",
+        "Show all actions on an item",
+        "Check history on an item"
+    };
+    private void navToForm()
+    {
+        _nav.NavigateTo("form");
+    }
+}
+

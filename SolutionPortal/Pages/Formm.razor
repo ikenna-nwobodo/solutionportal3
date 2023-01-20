@@ -1,0 +1,28 @@
+﻿@page "/form"
+<h2 style="text-align:center; margin-bottom:20px;">Log Complaint</h2>
+<div class="container f">
+	<form class=" formm" action="https://formsubmit.co/nikenna06@gmail.com" method="post">
+		<input type="hidden" name="_template" value="table">
+		<input type="hidden" name="_subject" value="New Complaint">
+		<input type="hidden" name="_next" value="https://localhost:7048/form">
+		<input type="hidden" name="_captcha" value="false">
+		<div class="mb-4 mt-4 selectt">
+			<label class="mb-3 ">Product</label>
+			<select class="form-select" aria-label="Default select example" name="Product">
+				<option selected>Select Product</option>
+				<option value="B1">SAP Business One</option>
+				<option value="BYD">SAP BYD</option>
+				<option value="SAP">SAP</option>
+			</select>
+		</div>
+		<div class="mb-3 descr">
+			<label for="exampleFormControlInput1" class="form-label">Description</label>
+			@*<input type="te" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">*@
+			<textarea placeholder="Describe your fault" resizeable="false" name="Description"></textarea>
+		</div>
+		<button class="mt-4">Send</button>
+	</form>
+</div>
+@code {
+
+}
