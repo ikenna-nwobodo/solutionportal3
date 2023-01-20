@@ -28,8 +28,8 @@
         <h4>Log Complaint</h4>
         @*<span class="material-symbols-outlined">arrow_forward</span>*@
     </div>
-    <div class="btn2">
-        <h4>View Products</h4>
+    <div class="btn2" @onclick="navToSupport">
+        <h4>Contact Support</h4>
         @*<span class="material-symbols-outlined">arrow_forward</span>*@
     </div>
 </div>
@@ -48,6 +48,11 @@
     private void navToForm()
     {
         _nav.NavigateTo("form");
+    }
+
+    private void navToSupport()
+    {
+        _nav.NavigateTo("support");
     }
 }
 
