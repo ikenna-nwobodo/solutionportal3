@@ -1,0 +1,21 @@
+﻿@page "/support"
+@inject NavigationManager _nav
+<h3>PakagesLiist</h3>
+
+<div class="bigBtn">
+    <div class="btn1" @onclick="navToQuestionsList">
+    <h4>SAP B1</h4>
+        @*<span class="material-symbols-outlined">arrow_forward</span>*@
+    </div>
+    <div class="btn2" >
+        <h4>SAP B2</h4>
+        @*<span class="material-symbols-outlined">arrow_forward</span>*@
+    </div>
+</div>
+
+@code {
+    private void navToQuestionsList()
+    {
+        _nav.NavigateTo("Qtable");
+    }
+}
