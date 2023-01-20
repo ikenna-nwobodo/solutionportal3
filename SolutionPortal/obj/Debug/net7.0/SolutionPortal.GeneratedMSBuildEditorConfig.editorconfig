@@ -9,22 +9,26 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = SolutionPortal
 build_property.RootNamespace = SolutionPortal
-build_property.ProjectDir = C:\Users\user\Documents\WEBPortal\solutionportal3\SolutionPortal\
+build_property.ProjectDir = C:\Users\HP\source\repos\SolutionPortal\SolutionPortal\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\Documents\WEBPortal\solutionportal3\SolutionPortal
+build_property.MSBuildProjectDirectory = C:\Users\HP\source\repos\SolutionPortal\SolutionPortal
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/App.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/Authentication.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/Authentication.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/BackTo.razor]
+=======
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/BackTo.razor]
+>>>>>>> b257a054cf7f4aaeeaf6571f58461005554a91da
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFja1RvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
@@ -32,62 +36,74 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/CreateNewCustomer.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/CreateNewCustomer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlTmV3Q3VzdG9tZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/FetchData.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/Formm.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/Formm.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybW0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/Index.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/Login.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/MakeSalesOrder.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFrZVNhbGVzT3JkZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/PakagesLiist.razor]
+=======
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/MakeSalesOrder.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFrZVNhbGVzT3JkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/PakagesLiist.razor]
+>>>>>>> b257a054cf7f4aaeeaf6571f58461005554a91da
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFrYWdlc0xpaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/QuestionsTable.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/QuestionsTable.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlc3Rpb25zVGFibGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Pages/Signup.razor]
+=======
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Pages/Signup.razor]
+>>>>>>> b257a054cf7f4aaeeaf6571f58461005554a91da
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbnVwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Shared/LoginDisplay.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Shared/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Shared/RedirectToLogin.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Shared/RedirectToLogin.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Shared/SurveyPrompt.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/_Imports.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Shared/MainLayout.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-g5cquq4995
 
-[C:/Users/user/Documents/WEBPortal/solutionportal3/SolutionPortal/Shared/NavMenu.razor]
+[C:/Users/HP/source/repos/SolutionPortal/SolutionPortal/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6uts4tg04w
